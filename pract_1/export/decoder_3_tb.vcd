@@ -1,0 +1,129 @@
+$date
+  Thu Sep 21 17:07:53 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module decoder_3_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ e $end
+$var reg 8 % q[7:0] $end
+$scope module decode_map $end
+$var reg 1 & d3_a $end
+$var reg 1 ' d3_b $end
+$var reg 1 ( d3_c $end
+$var reg 1 ) d3_e $end
+$var reg 8 * d3_q[7:0] $end
+$var reg 4 + x1[3:0] $end
+$scope module decode_map $end
+$var reg 1 , a $end
+$var reg 1 - b $end
+$var reg 1 . e $end
+$var reg 4 / q[3:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+b00000000 %
+0&
+0'
+0(
+0)
+b00000000 *
+b0000 +
+0,
+0-
+0.
+b0000 /
+#1000000
+1$
+b00000001 %
+1)
+b00000001 *
+b0001 +
+1.
+b0001 /
+#2000000
+1!
+b00000010 %
+1&
+b00000010 *
+b0010 +
+1,
+b0010 /
+#3000000
+0!
+1"
+b00000100 %
+0&
+1'
+b00000100 *
+b0100 +
+0,
+1-
+b0100 /
+#4000000
+1!
+b00001000 %
+1&
+b00001000 *
+b1000 +
+1,
+b1000 /
+#5000000
+0!
+0"
+1#
+b00010000 %
+0&
+0'
+1(
+b00010000 *
+b0001 +
+0,
+0-
+b0001 /
+#6000000
+1!
+b00100000 %
+1&
+b00100000 *
+b0010 +
+1,
+b0010 /
+#7000000
+0!
+1"
+b01000000 %
+0&
+1'
+b01000000 *
+b0100 +
+0,
+1-
+b0100 /
+#8000000
+1!
+b10000000 %
+1&
+b10000000 *
+b1000 +
+1,
+b1000 /
+#9000000

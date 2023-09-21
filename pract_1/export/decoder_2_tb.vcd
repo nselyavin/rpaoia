@@ -1,0 +1,60 @@
+$date
+  Thu Sep 21 16:57:30 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module decoder_2_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # e $end
+$var reg 4 $ q[3:0] $end
+$scope module decode_map $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' e $end
+$var reg 4 ( q[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+b0000 $
+0%
+0&
+0'
+b0000 (
+#1000000
+1#
+b0001 $
+1'
+b0001 (
+#2000000
+1!
+b0010 $
+1%
+b0010 (
+#3000000
+0!
+1"
+b0100 $
+0%
+1&
+b0100 (
+#4000000
+1!
+b1000 $
+1%
+b1000 (
+#5000000
